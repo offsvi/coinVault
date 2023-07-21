@@ -11,7 +11,7 @@ public class Principal {
         menu();
     }
 
-//Apartir daqui irá mostrar uma lista de munu com opções para o usuário  
+//Apartir daqui irá mostrar uma lista de munu com opções para o usuário
     private static void menu()
     {
         int opcao;

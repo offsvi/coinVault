@@ -7,7 +7,7 @@ public class Principal {
 
     public static void main(String... args)
     {
-        System.out.println("*** COFRINHO ***");
+        System.out.println("*** COFRINHO ***"); 
         menu();
     }
 

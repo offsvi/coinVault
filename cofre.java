@@ -5,7 +5,7 @@ public class Principal {
     public static final Scanner ENTRADA = new Scanner(System.in);
     public static final Cofrinho COFRINHO = new Cofrinho();
 
-    public static void main(String... args)
+    public static void main(String... args) 
     {
         System.out.println("*** COFRINHO ***");
         menu();

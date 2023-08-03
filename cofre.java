@@ -8,7 +8,7 @@ public class Principal {
     public static void main(String... args) 
     {
         System.out.println("*** COFRINHO ***");
-        menu(); 
+        menu();  
     }
 
 //Apartir daqui irá mostrar uma lista de munu com opções para o usuário

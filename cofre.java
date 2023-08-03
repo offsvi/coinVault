@@ -17,7 +17,7 @@ public class Principal {
         int opcao;
 
         do {
-            System.out.println();
+            System.out.println(); 
             System.out.println("MENU");
             System.out.println("[1] Adicionar Moeda.");
             System.out.println("[2] Remover Moeda.");

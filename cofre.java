@@ -18,7 +18,7 @@ public class Principal {
 
         do {
             System.out.println();
-            System.out.println("MENU"); 
+            System.out.println("MENU");
             System.out.println("[1] Adicionar Moeda.");
             System.out.println("[2] Remover Moeda.");
             System.out.println("[3] Listar Todas as Moedas.");
